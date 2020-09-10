@@ -10,8 +10,8 @@ requires:
 
     component:
     {
-        json
-        argosPublisher
+        ../json
+        ../argosPublisher
     }
 
 }

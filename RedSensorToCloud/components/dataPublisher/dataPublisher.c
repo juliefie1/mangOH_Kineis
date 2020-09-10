@@ -32,7 +32,7 @@
 #include "legato.h"
 #include "interfaces.h"
 #include "json.h"
-#include "argosPublisher/argosPublisher.h"
+#include "../argosPublisher/argosPublisher.h"
 
 
 //--------------------------------------------------------------------------------------------------
